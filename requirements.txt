@@ -1,0 +1,8 @@
+Django==1.8.15
+#django-extensions==1.7.4
+#django-disposable-email-checker==1.2.1
+
+djangorestframework==3.4.7
+
+# dev/test
+honcho
